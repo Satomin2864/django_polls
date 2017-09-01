@@ -12,6 +12,9 @@ https://docs.djangoproject.com/ja/1.11/intro/tutorial01/
 
 チュートリアル２終了
 ただ、なんとなくしか理解できてないところがあるので、後でしっかり確認
-https://docs.djangoproject.com/ja/1.11/intro/tutorial02/
+https://docs.djangoproject.com/ja/1.11/intro/tutorial02/ 
 
-
+チュートリアル３
+もっとビューを書いてみる
+まで終了
+https://docs.djangoproject.com/ja/1.11/intro/tutorial03/
