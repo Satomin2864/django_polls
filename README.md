@@ -17,3 +17,8 @@ https://docs.djangoproject.com/ja/1.11/intro/tutorial02/
 ### チュートリアル３終了
 URL 名の名前空間が理解甘い気がする
 https://docs.djangoproject.com/ja/1.11/intro/tutorial03/
+
+### チュートリアル４終了
+https://docs.djangoproject.com/ja/1.11/intro/tutorial04/
+
+
